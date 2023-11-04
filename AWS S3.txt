@@ -1,0 +1,23 @@
+AWS:-
+It is a cloud platform.
+AWS provides on demand delivery of technology, services via the internet with pay as 
+go pricing.
+We can use this services to build and run virtually any type of application without 
+upfront costs or ongoing commitments. You only pay for what you use.
+
+AWS S3:-
+Amazon Simple Storage Service(S3), is an object storage service that offers industry-
+leading scaliblity, data availability, security, and performance.
+
+How to create and store object:-
+
+Create & configure bucket
+upload objects
+view objects
+copy/move objects
+delete object
+delete bucket
+
+
+
+
